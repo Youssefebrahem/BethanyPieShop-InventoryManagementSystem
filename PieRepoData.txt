@@ -1,0 +1,4 @@
+1;Sugar;Lorem Ipsum;100;10;1;2;3;
+2;Cake decoration;Lorem Ipsum;20;8;1;0;4;
+3;Strawberry;Lorem Ipsum;10;3;1;2;2;
+4;Eggs;Lorem Ipsum;10;3;1;1;1;6

@@ -1,0 +1,42 @@
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.AssemblyInfo.cs
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.exe
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.deps.json
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.runtimeconfig.json
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.dll
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.pdb
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.dll
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\refint\bethanyPieShop.InventoryManagement.dll
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.pdb
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.genruntimeconfig.cache
+C:\Users\Youssef Ebrahem\Desktop\Projects\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\ref\bethanyPieShop.InventoryManagement.dll
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.exe
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.deps.json
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.runtimeconfig.json
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.dll
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.pdb
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.AssemblyInfoInputs.cache
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.AssemblyInfo.cs
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.csproj.CoreCompileInputs.cache
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.dll
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\refint\bethanyPieShop.InventoryManagement.dll
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.pdb
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.genruntimeconfig.cache
+D:\.Net Journey\C#\c-sharp-10-object-oriented-programming\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\ref\bethanyPieShop.InventoryManagement.dll
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.exe
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.deps.json
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.runtimeconfig.json
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.dll
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\bin\Debug\net8.0\bethanyPieShop.InventoryManagement.pdb
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.AssemblyInfoInputs.cache
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.AssemblyInfo.cs
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.csproj.CoreCompileInputs.cache
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.dll
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\refint\bethanyPieShop.InventoryManagement.dll
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.pdb
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\bethanyPieShop.InventoryManagement.genruntimeconfig.cache
+D:\.Net Journey\C#\c#-10-OOP\00- My Project\bethanyPieShop.InventoryManagement\bethanyPieShop.InventoryManagement\obj\Debug\net8.0\ref\bethanyPieShop.InventoryManagement.dll

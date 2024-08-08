@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\productmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\productmanagement\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\productmanagement\\product2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\productmanagement\\product2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\ordermanagement\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\productmanagement\\regularproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\productmanagement\\regularproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\productmanagement\\freshproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\productmanagement\\freshproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\productmanagement\\bulkproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\productmanagement\\bulkproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\productmanagement\\boxedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\productmanagement\\boxedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\contracts\\iloggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\contracts\\iloggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\contracts\\isaveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\contracts\\isaveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\productmanagement\\freshboxedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\productmanagement\\freshboxedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\productmanagement\\productextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\productmanagement\\productextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\general\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\general\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34160706-69B3-4555-A671-E3DB8A1619DE}|bethanyPieShop.InventoryManagement.test\\bethanyPieShop.InventoryManagement.test.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement.test\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34160706-69B3-4555-A671-E3DB8A1619DE}|bethanyPieShop.InventoryManagement.test\\bethanyPieShop.InventoryManagement.test.csproj|solutionrelative:bethanypieshop.inventorymanagement.test\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\productmanagement\\unittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\productmanagement\\unittype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\ordermanagement\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\ordermanagement\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|d:\\.net journey\\c#\\c#-10-oop\\00- my project\\bethanypieshop.inventorymanagement\\bethanypieshop.inventorymanagement\\domain\\general\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81B620B-D0C7-4DD1-9BE9-FF894D423AED}|bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.csproj|solutionrelative:bethanypieshop.inventorymanagement\\domain\\general\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Program.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Program.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:25:50.005Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BulkProduct.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\BulkProduct.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\BulkProduct.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\BulkProduct.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\BulkProduct.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwA0AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:44:34.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FreshProduct.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\FreshProduct.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\FreshProduct.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\FreshProduct.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\FreshProduct.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwC4AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:45:10.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\Product.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\Product.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\Product.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\Product.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAA9wDUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:28:47.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\OrderManagement\\Order.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\OrderManagement\\Order.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\OrderManagement\\Order.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\OrderManagement\\Order.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:06:28.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegularProduct.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\RegularProduct.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\RegularProduct.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\RegularProduct.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\RegularProduct.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:55:27.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Utilities.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Utilities.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Utilities.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:02:09.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\ProductRepository.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\ProductRepository.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\ProductRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwCAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T02:47:10.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product2.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\Product2.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\Product2.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\Product2.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\Product2.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:46:53.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoxedProduct.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\BoxedProduct.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\BoxedProduct.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\BoxedProduct.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\BoxedProduct.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwFUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T16:33:30.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILoggable.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\Contracts\\ILoggable.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\Contracts\\ILoggable.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\Contracts\\ILoggable.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\Contracts\\ILoggable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:00:48.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISaveable.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\Contracts\\ISaveable.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\Contracts\\ISaveable.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\Contracts\\ISaveable.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\Contracts\\ISaveable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T06:06:19.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FreshBoxedProduct.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\FreshBoxedProduct.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\FreshBoxedProduct.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\FreshBoxedProduct.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\FreshBoxedProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T17:48:52.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductExtentions.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\ProductExtentions.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\ProductExtentions.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\ProductExtentions.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\ProductExtentions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:26:17.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\General\\Currency.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\General\\Currency.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\General\\Currency.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\General\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:23:12.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.test\\ProductTest.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement.test\\ProductTest.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement.test\\ProductTest.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement.test\\ProductTest.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwCcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T16:28:42.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitType.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\UnitType.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\UnitType.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\UnitType.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\ProductManagement\\UnitType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:12:49.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\OrderManagement\\OrderItem.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\OrderManagement\\OrderItem.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\OrderManagement\\OrderItem.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\OrderManagement\\OrderItem.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAD4vw0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T15:06:44.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Price.cs",
+              "DocumentMoniker": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\General\\Price.cs",
+              "RelativeDocumentMoniker": "bethanyPieShop.InventoryManagement\\Domain\\General\\Price.cs",
+              "ToolTip": "D:\\.Net Journey\\C#\\c#-10-OOP\\00- My Project\\bethanyPieShop.InventoryManagement\\bethanyPieShop.InventoryManagement\\Domain\\General\\Price.cs",
+              "RelativeToolTip": "bethanyPieShop.InventoryManagement\\Domain\\General\\Price.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T13:23:24.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
